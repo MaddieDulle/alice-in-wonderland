@@ -1,8 +1,56 @@
-/* Heading Starts Here */
+/* Heading Style Starts Here */
 
 h1 {
     text-align: center;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 h2 {
     text-align: center;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
+
+/* Heading Style Ends Here */
+
+
+
+/* Image Style Starts Here */
+
+figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+/* Image Style Ends Here */
+
+
+
+/* Body Style Starts Here */
+
+P {
+    text-indent: 25;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+div {
+    text-align: center;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    margin-top: 25pt;
+    margin-bottom: 25pt;
+    line-height: .1;
+}
+
+.paragraph-end {
+    text-indent:0%;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+/* Body Style Ends Here */
